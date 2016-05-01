@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25501" started-at="2016-05-01T18:26:13Z" finished-at="2016-05-01T18:26:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25501" started-at="2016-05-01T18:26:13Z" finished-at="2016-05-01T18:26:38Z">
+      <class name="basics.AutomationExercisePart1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:basics.AutomationExercisePart1@40edec51]" name="setUp" is-config="true" duration-ms="14479" started-at="2016-05-01T13:26:13Z" finished-at="2016-05-01T13:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEmptyCart()[pri:0, instance:basics.AutomationExercisePart1@40edec51]" name="verifyEmptyCart" duration-ms="10501" started-at="2016-05-01T13:26:27Z" finished-at="2016-05-01T13:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:basics.AutomationExercisePart1@40edec51]" name="tearDown" is-config="true" duration-ms="506" started-at="2016-05-01T13:26:38Z" finished-at="2016-05-01T13:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- basics.AutomationExercisePart1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
